@@ -54,8 +54,8 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 | Phase | Deliverable | Link |
 | :--- | :--- | :--- |
-| **Strategy** | User Journey & Process | [🔗 View Process](https://www.figma.com/design/0SG5hie7vt4Ke5xbrkS6Uh/Process-Page?t=crvuFPYfUQedV4nH-1) |
-| **Discovery** | High-Fidelity Home Page | [🔗 View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
+| **Strategy** | Our Process | [🔗 View Process](https://www.figma.com/design/0SG5hie7vt4Ke5xbrkS6Uh/Process-Page?t=crvuFPYfUQedV4nH-1) |
+| **Discovery** | Home Page | [🔗 View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
 | **Browsing** | Shop / Catalog Page | [🔗 View Shop](https://www.figma.com/design/jZM4S9iw1Ciq4XN3QmDCFA/Shop-Page?t=crvuFPYfUQedV4nH-1) |
 | **Decision** | Product Detail Page (PDP) | [🔗 View Product](https://www.figma.com/design/sQCm9YJtGJkX3YcheBjfWn/Individual-Product-Detail-Page?t=crvuFPYfUQedV4nH-1) |
 | **Iteration** | **Design Revisions (V1)** | [🔗 View Revisions](https://www.figma.com/site/aZKeS3R7WlghdWtNet1m7O/UX-UI-Team_GIT-450-550_Lab-5.4_Revisions_V1?t=crvuFPYfUQedV4nH-1) |
