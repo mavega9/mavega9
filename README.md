@@ -50,22 +50,26 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 ---
 
-### ** Project Deliverables**
+### **Project Deliverables**
 
-| Research & Process | High-Fidelity Flow | Interactive Design |
+| Phase | Deliverable | Link |
 | :--- | :--- | :--- |
-| [🔗 QA Framework Doc](LINK_TO_UPLOADED_PDF) | [🔗 User Flow Chart]() | [🔗 Vita Terra Figma](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
+| **Strategy** | User Journey & Process | [🔗 View Process](https://www.figma.com/design/0SG5hie7vt4Ke5xbrkS6Uh/Process-Page?t=crvuFPYfUQedV4nH-1) |
+| **Discovery** | High-Fidelity Home Page | [🔗 View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
+| **Browsing** | Shop / Catalog Page | [🔗 View Shop](https://www.figma.com/design/jZM4S9iw1Ciq4XN3QmDCFA/Shop-Page?t=crvuFPYfUQedV4nH-1) |
+| **Decision** | Product Detail Page (PDP) | [🔗 View Product](https://www.figma.com/design/sQCm9YJtGJkX3YcheBjfWn/Individual-Product-Detail-Page?t=crvuFPYfUQedV4nH-1) |
+| **Iteration** | **Design Revisions (V1)** | [🔗 View Revisions](https://www.figma.com/site/aZKeS3R7WlghdWtNet1m7O/UX-UI-Team_GIT-450-550_Lab-5.4_Revisions_V1?t=crvuFPYfUQedV4nH-1) |
 
-
-
-
-### **Design Evolution: From Sketch to Prototype**
-I utilized low-fidelity sketching to iterate on complex layouts, such as the interactive map and hotel selection pages, before moving into high-fidelity development.
-
+### **Interactive Walkthrough**
 <div align="center">
-  <img src="LINK_TO_SKETCH_IMAGE" width="800" style="border-radius: 10px;" alt="Low Fidelity Sketches">
-  <p><i>Initial wireframe sketches focusing on navigation, search engine layout, and interactive map placement.</i></p>
+  <video src="PASTE_YOUR_VIDEO_URL_HERE" width="700" autoplay loop muted playsinline style="border-radius: 12px; border: 1px solid #eee;"></video>
+  <p><i>Walkthrough of the final Vita Terra experience, showcasing the narrative-driven shopping flow.</i></p>
 </div>
+
+
+
+
+
 
 ---
 
