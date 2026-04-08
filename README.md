@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Megan Vega | UX Designer
 
-Passionate about creating clean, accessible, and user-centered digital experiences.
+**I'm Passionate about creating clean, accessible, and user-centered digital experiences.**
 
 
 ---
@@ -54,7 +54,7 @@ I believe that great design starts with empathy and ends with a solution that fe
    Using tools like Figma and CSS, I build responsive layouts. I prioritize **Visual Hierarchy**, ensuring the most important information (like "Order Now" buttons or "Goal Deadlines") stands out.
 
 4. **Phase 4: Deliver & Refine**   
-   I deploy live versions using GitHub Pages and test them across devices. I look for ways to reduce **Cognitive Load**, making sure the final product is fast, accessible, and delighting to use.
+   I deploy live versions using GitHub Pages and test them across devices. I look for ways to reduce **Cognitive Load**, making sure the final product is fast, accessible, and easy to use.
 
 
 
