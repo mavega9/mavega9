@@ -31,7 +31,14 @@ Passionate about creating clean, accessible, and user-centered digital experienc
 
 * 🛠 **Tools Used:** HTML, CSS, Responsive Grid Design
 * 🔗 [**View Live Site**](https://mavega9.github.io/Recipe/)
-*
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/8fc04fbc-8eae-45ea-a6ee-a6d757ed570e" width="200" autoplay loop muted playsinline style="border-radius: 5px; border: 1px solid #ddd;"></video>
+  <p><i>Visualizing the Recipe Flow & Mobile Navigation</i></p>
+</div>
+
+
+
 
 ---
 
@@ -50,9 +57,7 @@ I believe that great design starts with empathy and ends with a solution that fe
 4. **Phase 4: Deliver & Refine**   
    I deploy live versions using GitHub Pages and test them across devices. I look for ways to reduce **Cognitive Load**, making sure the final product is fast, accessible, and delighting to use.
 
-
-[Image of the Double Diamond Design Process diagram]
-
+<img width="842" height="595" alt="image" src="https://github.com/user-attachments/assets/d563a93c-16f2-4eb8-bd11-59052c1376a3" />
 
 ---
 
