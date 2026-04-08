@@ -24,22 +24,33 @@
 ---
 
 ## Case Study 02: Vita Terra: E-Commerce Transparency Design
-**Project:** "Operation Warp & Weft" [cite: 1] | **Role:** UX/UI Team Quality Assurance (QA) 
+**Team Collaboration:** 4 Multi-disciplinary Teams | **My Role:** UX/UI Design & Quality Assurance (QA) 
 
 ### **The Strategic Challenge**
-[cite_start]To position **Vita Terra** as a leader in sustainability by replacing industry buzzwords with "Radical Transparency"[cite: 6, 7]. [cite_start]The goal was to provide visible proof of ethical labor and sourcing to justify premium brand positioning[cite: 7].
+To position **Vita Terra** as a leader in sustainability by replacing industry buzzwords with "Radical Transparency".The goal was to provide visible proof of ethical labor and sourcing to justify premium brand positioning.
 
 ### **My Impact: Design Quality Assurance (QA)**
-[cite_start]As the QA lead, I performed a rigorous assessment of the "Made by Humans" high-fidelity prototype to ensure the digital storytelling translated into a seamless user experience[cite: 2, 6].
+As the QA lead, I performed a rigorous assessment of the "Made by Humans" high-fidelity prototype to ensure the digital storytelling translated into a seamless user experience.
 
-* [cite_start]**Audit & Technical Checklist:** Verified critical elements including CTA interactions, editorial asset integration, and layout responsiveness[cite: 9].
-* [cite_start]**Accessibility & Usability:** Performed contrast checks on text overlays and verified CTA actionability to ensure users are guided effectively down the funnel[cite: 11, 12, 13].
-* [cite_start]**Problem Solving (Bug Log):** Identified a critical "dead end" on the Radical Transparency page and resolved it by implementing a "Learn Our Process" CTA to maintain user flow[cite: 16, 17].
-* [cite_start]**Workflow Optimization:** Recognized a lack of defined user paths and developed a comprehensive User Flow to ensure effective conversion[cite: 18, 19].
+* **Audit & Technical Checklist:** Verified critical elements including CTA interactions, editorial asset integration, and layout responsiveness.
+* **Accessibility & Usability:** Performed contrast checks on text overlays and verified CTA actionability to ensure users are guided effectively down the funnel.
+* **Problem Solving (Bug Log):** Identified a critical "dead end" on the Radical Transparency page and resolved it by implementing a "Learn Our Process" CTA to maintain user flow.
+* **Workflow Optimization:** Recognized a lack of defined user paths and developed a comprehensive User Flow to ensure effective conversion.
+
+* ### **Logic & Information Architecture**
+To resolve the "dead ends" identified during the QA phase, I developed a comprehensive user flow. This ensured that the "Seed-to-Shirt" story remained a continuous loop, guiding the user from transparency data directly back to the conversion funnel.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/00658b6a-a4fd-494e-aa43-48dbfb0c346e" width="900" alt="Vita Terra User Flow Chart">
+  <p><i>The mapped user journey: Connecting radical transparency to the e-commerce checkout flow.</i></p>
+</div>
+
+
+
 
 ---
 
-### **Project Deliverables**
+### ** Project Deliverables**
 
 | Research & Process | High-Fidelity Flow | Interactive Design |
 | :--- | :--- | :--- |
