@@ -5,6 +5,18 @@
 
 ---
 
+## Case Study 02: Travel Booking Usability Redesign
+**The Challenge:** Users reported high friction and "spatial confusion" during the hotel selection process, leading to abandoned bookings.
+**The Goal:** Streamline the multi-step booking flow and integrate interactive map data to improve user decision-making.
+
+*  [**View Figma Wireframe/Prototype**](https://www.figma.com/design/6ebmePawUUzQ5EfhiC4EhU/Vega_GIT340_Fall2025B_Final?node-id=0-1&t=i61SncqTW695ZwCz-0)
+
+### **My Design Impact**
+* **User-Centric Research:** Conducted 1-on-1 user interviews to uncover hidden pain points, identifying that a lack of map visibility was the primary cause of user drop-off.
+* **Information Architecture:** Restructured the site hierarchy to prioritize spatial awareness, ensuring the map remains a persistent reference point throughout the hotel selection.
+* **Streamlined Logic:** Developed comprehensive user flow charts to reduce "clicks-to-completion," transforming a cluttered multi-step process into a linear, intuitive path.
+* **Iterative Prototyping:** Translated low-fidelity sketches into high-fidelity wireframes, testing multiple layout configurations to find the optimal balance between property details and interactive map placement.
+---
 ## Project 01: Fioana Farms
 **The Challenge:** Bridging the gap between local sustainable farming and digital convenience.
 **The Solution:** A mobile-friendly storefront showcasing seasonal produce for the Mesa, AZ community.
