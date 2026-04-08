@@ -22,6 +22,42 @@
 * **Streamlined Logic:** Developed comprehensive user flow charts to reduce "clicks-to-completion," transforming a cluttered multi-step process into a linear, intuitive path.
 * **Iterative Prototyping:** Translated low-fidelity sketches into high-fidelity wireframes, testing multiple layout configurations to find the optimal balance between property details and interactive map placement.
 ---
+
+## Case Study 02: Vita Terra: E-Commerce Transparency Design
+**Project:** "Operation Warp & Weft" [cite: 1] | **Role:** UX/UI Team Quality Assurance (QA) 
+
+### **The Strategic Challenge**
+[cite_start]To position **Vita Terra** as a leader in sustainability by replacing industry buzzwords with "Radical Transparency"[cite: 6, 7]. [cite_start]The goal was to provide visible proof of ethical labor and sourcing to justify premium brand positioning[cite: 7].
+
+### **My Impact: Design Quality Assurance (QA)**
+[cite_start]As the QA lead, I performed a rigorous assessment of the "Made by Humans" high-fidelity prototype to ensure the digital storytelling translated into a seamless user experience[cite: 2, 6].
+
+* [cite_start]**Audit & Technical Checklist:** Verified critical elements including CTA interactions, editorial asset integration, and layout responsiveness[cite: 9].
+* [cite_start]**Accessibility & Usability:** Performed contrast checks on text overlays and verified CTA actionability to ensure users are guided effectively down the funnel[cite: 11, 12, 13].
+* [cite_start]**Problem Solving (Bug Log):** Identified a critical "dead end" on the Radical Transparency page and resolved it by implementing a "Learn Our Process" CTA to maintain user flow[cite: 16, 17].
+* [cite_start]**Workflow Optimization:** Recognized a lack of defined user paths and developed a comprehensive User Flow to ensure effective conversion[cite: 18, 19].
+
+---
+
+### **Project Deliverables**
+
+| Research & Process | High-Fidelity Flow | Interactive Design |
+| :--- | :--- | :--- |
+| [🔗 QA Framework Doc](LINK_TO_UPLOADED_PDF) | [🔗 User Flow Chart]() | [🔗 Vita Terra Figma](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
+
+
+
+
+### **Design Evolution: From Sketch to Prototype**
+I utilized low-fidelity sketching to iterate on complex layouts, such as the interactive map and hotel selection pages, before moving into high-fidelity development.
+
+<div align="center">
+  <img src="LINK_TO_SKETCH_IMAGE" width="800" style="border-radius: 10px;" alt="Low Fidelity Sketches">
+  <p><i>Initial wireframe sketches focusing on navigation, search engine layout, and interactive map placement.</i></p>
+</div>
+
+---
+
 ## Project 01: Fioana Farms
 **The Challenge:** Bridging the gap between local sustainable farming and digital convenience.
 **The Solution:** A mobile-friendly storefront showcasing seasonal produce for the Mesa, AZ community.
@@ -32,6 +68,7 @@
 <img width="300" alt="mavega9 github io_fioanafarms_ (4)" src="https://github.com/user-attachments/assets/57b781e3-77db-476a-a5fd-6de04b288b4e" />
 
 ---
+
 ## Project 02: Path to Success
 **The Challenge:** Simplifying the overwhelming process of goal-setting and educational milestones into a clear, manageable roadmap.
 **The Solution:** A structured resource hub designed to reduce cognitive load and keep users motivated through their journey.
