@@ -9,8 +9,13 @@
 **The Challenge:** Users reported high friction and "spatial confusion" during the hotel selection process, leading to abandoned bookings.
 **The Goal:** Streamline the multi-step booking flow and integrate interactive map data to improve user decision-making.
 
-*  [**View Figma Wireframe/Prototype**](https://www.figma.com/design/6ebmePawUUzQ5EfhiC4EhU/Vega_GIT340_Fall2025B_Final?node-id=0-1&t=i61SncqTW695ZwCz-0)
+*  [**View Figma Wireframe**](https://www.figma.com/design/6ebmePawUUzQ5EfhiC4EhU/Vega_GIT340_Fall2025B_Final?node-id=0-1&t=i61SncqTW695ZwCz-0)
+### **The Evolution of the Design**
+| User Flow  | Low-Fidelity (Sketch) | High-Fidelity (Wireframe) |
+| :--- | :--- | :--- |
+| <img src="https://github.com/user-attachments/assets/60f60947-4b9c-442c-8303-29fa3f28f9e0" width="200"> | <img src="https://github.com/user-attachments/assets/52a85fc1-76a3-45f4-9620-4fe500c82b53" width="200"> | <img src="https://github.com/user-attachments/assets/1ec16516-4162-44d9-a353-e7c186321da8" width="200"> |
 
+   Above I have organized the pages to show the progression from initial research to the high-fidelity Wireframe.
 ### **My Design Impact**
 * **User-Centric Research:** Conducted 1-on-1 user interviews to uncover hidden pain points, identifying that a lack of map visibility was the primary cause of user drop-off.
 * **Information Architecture:** Restructured the site hierarchy to prioritize spatial awareness, ensuring the map remains a persistent reference point throughout the hotel selection.
