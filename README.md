@@ -60,10 +60,18 @@ I believe that great design starts with empathy and ends with a solution that fe
 
 ---
 
-## 🛠 Skills & Tools
-* **Design:** Wireframing, Responsive Design, Typography.
-* **Tech:** HTML5, CSS3, Git/GitHub.
-* **Software:** Figma, Adobe Creative Cloud.
+## 🛠 Skills & Toolbox
+
+### **Core UX/UI Design**
+* **User Research:** User Interviews, Persona Creation, Journey Mapping.
+* **Information Architecture:** User Flows, Sitemap Design, Wireframing (Lo-Fi, Mid-Fi & Hi-Fi).
+* **Visual Design:** Color Theory, Typography, Grid Systems, Design Systems, Ux Hieracrchy.
+* **Prototyping:** Interactive Prototypes, Micro-interactions, Usability Testing.
+
+### **Technical & Development**
+* **Languages:** HTML5, CSS3 (Flexbox/Grid), Basic JavaScript.
+* **Tools:** Figma, Adobe Creative Cloud (Photoshop/Illustrator), GitHub, VS Code.
+* **Principles:** Responsive Web Design, Mobile-First Approach, Accessibility (WCAG).
 
 ---
 
