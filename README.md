@@ -58,7 +58,7 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 | **Discovery** | Home Page | [🔗 View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
 | **Browsing** | Shop / Catalog Page | [🔗 View Shop](https://www.figma.com/design/jZM4S9iw1Ciq4XN3QmDCFA/Shop-Page?t=crvuFPYfUQedV4nH-1) |
 | **Decision** | Product Detail Page (PDP) | [🔗 View Product](https://www.figma.com/design/sQCm9YJtGJkX3YcheBjfWn/Individual-Product-Detail-Page?t=crvuFPYfUQedV4nH-1) |
-| **Iteration** | **Design Revisions (V1)** | [🔗 View Revisions](https://www.figma.com/site/aZKeS3R7WlghdWtNet1m7O/UX-UI-Team_GIT-450-550_Lab-5.4_Revisions_V1?t=crvuFPYfUQedV4nH-1) |
+| **Iteration** | **High-Fidelity Prototype (V1)** | [🔗 View Revisions](https://www.figma.com/site/Qlkrw57PGWOQ33TOybSwHr/UX-UI-Team_GIT-450-550_Lab-5.6_Revisions_V2?node-id=0-1&t=RO5aTpn0bJiD9KAQ-1) |
 
 ### **Interactive Walkthrough**
 <div align="center">
