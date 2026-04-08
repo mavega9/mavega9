@@ -5,7 +5,7 @@
 
 ---
 
-## Case Study 02: Travel Booking Usability Redesign
+## Case Study 01: Travel Booking Usability Redesign
 **The Challenge:** Users reported high friction and "spatial confusion" during the hotel selection process, leading to abandoned bookings.
 **The Goal:** Streamline the multi-step booking flow and integrate interactive map data to improve user decision-making.
 
