@@ -37,13 +37,12 @@ Passionate about creating clean, accessible, and user-centered digital experienc
   <p><i>Visualizing the Recipe Flow & Mobile Navigation</i></p>
 </div>
 
-
-
-
 ---
 
 ##  My Design Process & Thinking 
 I believe that great design starts with empathy and ends with a solution that feels invisible to the user. My workflow is rooted in the **Double Diamond** methodology:
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d563a93c-16f2-4eb8-bd11-59052c1376a3" />
 
 1. **Phase 1: Discover & Empathize**   
    I start by identifying the "Why." Whether it's a local farmer needing a storefront or a student needing a roadmap, I research user pain points to ensure I’m solving the right problem.
@@ -57,7 +56,7 @@ I believe that great design starts with empathy and ends with a solution that fe
 4. **Phase 4: Deliver & Refine**   
    I deploy live versions using GitHub Pages and test them across devices. I look for ways to reduce **Cognitive Load**, making sure the final product is fast, accessible, and delighting to use.
 
-<img width="842" height="595" alt="image" src="https://github.com/user-attachments/assets/d563a93c-16f2-4eb8-bd11-59052c1376a3" />
+
 
 ---
 
