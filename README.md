@@ -64,6 +64,6 @@ I believe that great design starts with empathy and ends with a solution that fe
 ---
 
 ## 📫 Let's Connect
-* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-* [Email Me](mailto:your-email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/megan-vega-b0a8a0313/)
+* [Email Me](MaVega9@ASU.edu)
   
