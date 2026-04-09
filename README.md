@@ -148,7 +148,7 @@ I believe that great design starts with empathy and ends with a solution that fe
 * **Prototyping:** Interactive Prototypes, Micro-interactions, Usability Testing.
 
 ### **Technical & Development**
-* **Languages:** HTML5, CSS3 (Flexbox/Grid), Basic JavaScript.
+* **Languages:** HTML5, CSS3 (Flexbox/Grid).
 * **Tools:** Figma, Adobe Creative Cloud (Photoshop/Illustrator), GitHub, VS Code.
 * **Principles:** Responsive Web Design, Mobile-First Approach, Accessibility (WCAG).
 
