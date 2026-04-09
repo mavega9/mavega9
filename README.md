@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Megan Vega | UX Designer
 
-**I'm Passionate about creating clean, accessible, and user-centered digital experiences.**
+**Passionate about creating clean, accessible, and user-centered digital experiences.**
 
 
 ---
@@ -23,7 +23,7 @@
 * **Iterative Prototyping:** Translated low-fidelity sketches into high-fidelity wireframes, testing multiple layout configurations to find the optimal balance between property details and interactive map placement.
 ---
 
-## Case Study 02: Vita Terra: E-Commerce Transparency Design
+## Case Study 02: Vita Terra: Engineering Trust through Radical Transparency & Design 
 **Team Collaboration:** 4 Multi-disciplinary Teams | **My Role:** UX/UI Design & Quality Assurance (QA) 
 
 ### **The Strategic Challenge**
@@ -37,7 +37,7 @@ As the QA lead, I performed a rigorous assessment of the "Made by Humans" high-f
 * **Problem Solving (Bug Log):** Identified a critical "dead end" on the Radical Transparency page and resolved it by implementing a "Learn Our Process" CTA to maintain user flow.
 * **Workflow Optimization:** Recognized a lack of defined user paths and developed a comprehensive User Flow to ensure effective conversion.
 
-* ### **Logic & Information Architecture**
+### **Logic & Information Architecture**
 To resolve the "dead ends" identified during the QA phase, I developed a comprehensive user flow. This ensured that the "Seed-to-Shirt" story remained a continuous loop, guiding the user from transparency data directly back to the conversion funnel.
 
 <div align="center">
@@ -46,25 +46,35 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 </div>
 
 
-
-
 ---
 
 ### **Project Deliverables**
 
 | Phase | Deliverable | Link |
 | :--- | :--- | :--- |
-| **Strategy** | Our Process | [🔗 View Process](https://www.figma.com/design/0SG5hie7vt4Ke5xbrkS6Uh/Process-Page?t=crvuFPYfUQedV4nH-1) |
-| **Discovery** | Home Page | [🔗 View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
-| **Browsing** | Shop / Catalog Page | [🔗 View Shop](https://www.figma.com/design/jZM4S9iw1Ciq4XN3QmDCFA/Shop-Page?t=crvuFPYfUQedV4nH-1) |
-| **Decision** | Product Detail Page (PDP) | [🔗 View Product](https://www.figma.com/design/sQCm9YJtGJkX3YcheBjfWn/Individual-Product-Detail-Page?t=crvuFPYfUQedV4nH-1) |
-| **Iteration** | **High-Fidelity Prototype (V1)** | [🔗 View Revisions](https://www.figma.com/site/Qlkrw57PGWOQ33TOybSwHr/UX-UI-Team_GIT-450-550_Lab-5.6_Revisions_V2?node-id=0-1&t=RO5aTpn0bJiD9KAQ-1) |
+| **Strategy** | Our Process | [ View Process](https://www.figma.com/design/0SG5hie7vt4Ke5xbrkS6Uh/Process-Page?t=crvuFPYfUQedV4nH-1) |
+| **Discovery** | Home Page | [ View Home](https://www.figma.com/design/GjCe9NXNavlV5GU9J9yfnX/Home-Page?t=crvuFPYfUQedV4nH-1) |
+| **Browsing** | Shop / Catalog Page | [ View Shop](https://www.figma.com/design/jZM4S9iw1Ciq4XN3QmDCFA/Shop-Page?t=crvuFPYfUQedV4nH-1) |
+| **Decision** | Product Detail Page (PDP) | [View Product](https://www.figma.com/design/sQCm9YJtGJkX3YcheBjfWn/Individual-Product-Detail-Page?t=crvuFPYfUQedV4nH-1) |
+| **Iteration** | **High-Fidelity Prototype** | [ View Prototype](https://www.figma.com/site/Qlkrw57PGWOQ33TOybSwHr/UX-UI-Team_GIT-450-550_Lab-5.6_Revisions_V2?node-id=0-1&t=RO5aTpn0bJiD9KAQ-1) |
 
-### **Interactive Walkthrough**
+### **The Experience: Radical Transparency in Motion**
+> To bridge the gap between ethical data and consumer trust, I audited the "Made by Humans" interface to ensure high-engagement micro-interactions.
+
 <div align="center">
-  <video src="PASTE_YOUR_VIDEO_URL_HERE" width="700" autoplay loop muted playsinline style="border-radius: 12px; border: 1px solid #eee;"></video>
-  <p><i>Walkthrough of the final Vita Terra experience, showcasing the narrative-driven shopping flow.</i></p>
+  <video src="https://github.com/user-attachments/assets/eb9af832-eb12-44bf-a6d6-7c5fdef19581"width="600" autoplay loop muted playsinline style="border-radius: 12px; border: 1px solid #eee; box-shadow: 0 10px 30px rgba(0,0,0,0.1);"></video>
+  <p><i>A glimpse into the Vita Terra narrative-driven commerce experience.</i></p>
 </div>
+
+**[🔗 Click here to view the Full Interactive Prototype in Figma](https://www.figma.com/site/Qlkrw57PGWOQ33TOybSwHr/UX-UI-Team_GIT-450-550_Lab-5.6_Revisions_V2?node-id=0-1&p=f&t=Oh4MBSIHaOzY1i9j-)**
+
+
+
+
+
+
+
+
 
 
 
