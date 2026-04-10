@@ -5,7 +5,7 @@
 
 ---
 
-## Case Study 01: Travel Booking Usability Redesign
+## 📋 Case Study 01: Travel Booking Usability Redesign
 **The Challenge:** Users reported high friction and "spatial confusion" during the hotel selection process, leading to abandoned bookings.
 **The Goal:** Streamline the multi-step booking flow and integrate interactive map data to improve user decision-making.
 
@@ -23,7 +23,7 @@
 * **Iterative Prototyping:** Translated low-fidelity sketches into high-fidelity wireframes, testing multiple layout configurations to find the optimal balance between property details and interactive map placement.
 ---
 
-## Case Study 02: Vita Terra: Engineering Trust through Radical Transparency & Design 
+## 📋 Case Study 02: Vita Terra: Engineering Trust through Radical Transparency & Design 
 **Team Collaboration:** 4 Multi-disciplinary Teams | **My Role:** UX/UI Design & Quality Assurance (QA) 
 
 ### **The Strategic Challenge**
@@ -83,7 +83,7 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 ---
 
-## Project 01: Fioana Farms
+## 📁 Project 01: Fioana Farms
 **The Challenge:** Bridging the gap between local sustainable farming and digital convenience.
 **The Solution:** A mobile-friendly storefront showcasing seasonal produce for the Mesa, AZ community.
 
@@ -94,7 +94,7 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 ---
 
-## Project 02: Path to Success
+## 📁 Project 02: Path to Success
 **The Challenge:** Simplifying the overwhelming process of goal-setting and educational milestones into a clear, manageable roadmap.
 **The Solution:** A structured resource hub designed to reduce cognitive load and keep users motivated through their journey.
 
@@ -104,7 +104,7 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 
 ---
-## Project 03: Recipe Site
+## 📁 Project 03: Recipe Site
 **The Challenge:** Users often feel overwhelmed by long, text-heavy recipe blogs and just want a clean, visual way to find their next meal.
 **The Solution:** A minimalist recipe repository that prioritizes high-quality imagery and a scannable grid layout for quick decision-making.
 
@@ -118,7 +118,7 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 
 ---
 
-##  My Design Process & Thinking 
+## 🧠 My Design Process & Thinking 
 I believe that great design starts with empathy and ends with a solution that feels invisible to the user. My workflow is rooted in the **Double Diamond** methodology:
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d563a93c-16f2-4eb8-bd11-59052c1376a3" />
