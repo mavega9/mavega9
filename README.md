@@ -121,7 +121,8 @@ To resolve the "dead ends" identified during the QA phase, I developed a compreh
 ## 🧠 My Design Process & Thinking 
 I believe that great design starts with empathy and ends with a solution that feels invisible to the user. My workflow is rooted in the **Double Diamond** methodology:
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/d563a93c-16f2-4eb8-bd11-59052c1376a3" />
+<img width="2500" height="1406" alt="image" src="https://github.com/user-attachments/assets/8ec91cd6-48bd-4eba-99c7-d9bf2c839af6" />
+
 
 1. **Phase 1: Discover & Empathize**   
    I start by identifying the "Why." Whether it's a local farmer needing a storefront or a student needing a roadmap, I research user pain points to ensure I’m solving the right problem.
