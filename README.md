@@ -1,6 +1,6 @@
 
 ## 👋 Hi, I'm Megan Vega
-**UX Designer | ASU Ira A. Fulton Schools of Engineering**
+**UX Designer | Arizona State University | Ira A. Fulton Schools of Engineering**
 
 Passionate about crafting clean, accessible, and high-converting digital experiences.
 
@@ -20,7 +20,7 @@ A responsive web redesign transforming an outdated legacy site into a seamless, 
  ### User Architecture & Decision Mapping
 Before designing wireframes, I mapped out the dual-path customer journey—distinguishing between instant booking for standard events and custom quote requests for complex catering needs.
 
-<img width="574" height="900" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/fb75831b-9d88-44cf-af13-6608a198973d" />
+<img width="474" height="900" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/fb75831b-9d88-44cf-af13-6608a198973d" />
 
 
 ###  Strategic UX Solutions
