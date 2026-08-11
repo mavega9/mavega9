@@ -13,7 +13,7 @@ Passionate about crafting clean, accessible, and high-converting digital experie
 A responsive web redesign transforming an outdated legacy site into a seamless, mobile-first booking experience for a multi-cuisine caterer (BBQ, Mexican, Italian).
 
 
-🌐 **[View Live Preview (Vercel)](https://bar-bq-ranch.vercel.app/)** | 🎨 **[View Figma Prototype](https://www.figma.com/proto/9Lnxt0JH8ZPJn5SbilVEFP/Bar-BQ-Ranch---User-Flow---WireFrames?node-id=44-3609&page-id=44%3A3608&t=xRaUoGZvS0XhSkKD-1)** | 📐 **[View FigJam User Flows](https://www.figma.com/design/9Lnxt0JH8ZPJn5SbilVEFP/Bar-BQ-Ranch---User-Flow---WireFrames?node-id=2-2&t=wq4RA56MPlSq0th3-1)**
+ **[View Live Preview (Vercel)](https://bar-bq-ranch.vercel.app/)** |  **[View Figma Prototype](https://www.figma.com/proto/9Lnxt0JH8ZPJn5SbilVEFP/Bar-BQ-Ranch---User-Flow---WireFrames?node-id=44-3609&page-id=44%3A3608&t=xRaUoGZvS0XhSkKD-1)** |  **[View FigJam User Flows](https://www.figma.com/design/9Lnxt0JH8ZPJn5SbilVEFP/Bar-BQ-Ranch---User-Flow---WireFrames?node-id=2-2&t=wq4RA56MPlSq0th3-1)**
 
 ###  The Challenge
 * **Menu Friction:** Complex multi-cuisine offerings led to decision fatigue and mobile drop-off.
