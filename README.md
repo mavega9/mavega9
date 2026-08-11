@@ -20,8 +20,8 @@ A responsive web redesign transforming an outdated legacy site into a seamless, 
   ### User Architecture & Decision Mapping
 Before designing wireframes, I mapped out the dual-path customer journey—distinguishing between instant booking for standard events and custom quote requests for complex catering needs.
 
-![BBQ Catering Customer User Flow](<img width="574" height="1011" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/ded74273-a96c-4039-b5e8-8d8dfa96ab2f" />
-)
+<img width="574" height="1000" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/fb75831b-9d88-44cf-af13-6608a198973d" />
+
 
 ### 💡 Strategic UX Solutions
 * **Tabbed Menu Architecture:** Designed a dynamic 5-tab system (BBQ, Mexican, Italian) eliminating page reloads and endless scrolling.
