@@ -12,25 +12,25 @@ Passionate about crafting clean, accessible, and high-converting digital experie
 
 A responsive web redesign transforming an outdated legacy site into a seamless, mobile-first booking experience for a multi-cuisine caterer (BBQ, Mexican, Italian).
 
-### 🎯 The Challenge
+###  The Challenge
 * **Menu Friction:** Complex multi-cuisine offerings led to decision fatigue and mobile drop-off.
 * **Buried Hierarchy:** Essential lead-capture points and business legacy were hidden under dense text.
 * **Outdated Branding:** Visual UI failed to reflect the brand's 40-year local reputation.
 
-  ### User Architecture & Decision Mapping
+ ### User Architecture & Decision Mapping
 Before designing wireframes, I mapped out the dual-path customer journey—distinguishing between instant booking for standard events and custom quote requests for complex catering needs.
 
-<img width="574" height="1000" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/fb75831b-9d88-44cf-af13-6608a198973d" />
+<img width="574" height="900" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/fb75831b-9d88-44cf-af13-6608a198973d" />
 
 
-### 💡 Strategic UX Solutions
+###  Strategic UX Solutions
 * **Tabbed Menu Architecture:** Designed a dynamic 5-tab system (BBQ, Mexican, Italian) eliminating page reloads and endless scrolling.
 * **Sales-First Funnel:** Restructured layout hierarchy to prioritize social proof, food pillars, and direct event inquiry forms.
 * **Accessible UI System:** High-contrast CTA hierarchy using brand-red accents optimized for mobile touch targets.
 
-> **🚀 Live Preview & Developer Handoff:** Independently deployed an interactive prototype on **Vercel** to deliver a live client preview, then collaborated side-by-side with the developer using FigJam logic flows and wireframe specs to implement the final production build on the host server.
+> ** Live Preview & Developer Handoff:** Independently deployed an interactive prototype on **Vercel** to deliver a live client preview, then collaborated side-by-side with the developer using FigJam logic flows and wireframe specs to implement the final production build on the host server.
 
-### 🛠️ Tools & Deliverables
+### Tools & Deliverables
 `Figma` `Figma Make` `FigJam` `Vercel (Staging)` `User Flows` `Low-Fi Wireframes` `Responsive UI`
 
 ---
