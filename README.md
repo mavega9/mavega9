@@ -1,11 +1,40 @@
-## 👋 Hi, I'm Megan Vega | UX Designer
 
-**Passionate about creating clean, accessible, and user-centered digital experiences.**
+## 👋 Hi, I'm Megan Vega
+**UX Designer | ASU Ira A. Fulton Schools of Engineering**
 
+Passionate about crafting clean, accessible, and high-converting digital experiences.
 
 ---
 
-## 📋 Case Study 01: Travel Booking Usability Redesign
+## 📋 Featured Case Study 01: Bar-BQ-Ranch Redesign
+> **Modernizing a 40-Year Tucson Institution for High-Conversion Catering Booking**
+  **[BAR-BQ-Ranch Live Website](https://www.bar-bq-ranch.com/)**
+
+A responsive web redesign transforming an outdated legacy site into a seamless, mobile-first booking experience for a multi-cuisine caterer (BBQ, Mexican, Italian).
+
+### 🎯 The Challenge
+* **Menu Friction:** Complex multi-cuisine offerings led to decision fatigue and mobile drop-off.
+* **Buried Hierarchy:** Essential lead-capture points and business legacy were hidden under dense text.
+* **Outdated Branding:** Visual UI failed to reflect the brand's 40-year local reputation.
+
+  ### User Architecture & Decision Mapping
+Before designing wireframes, I mapped out the dual-path customer journey—distinguishing between instant booking for standard events and custom quote requests for complex catering needs.
+
+![BBQ Catering Customer User Flow](<img width="574" height="1011" alt="Screenshot 2026-08-11 at 2 01 18 PM" src="https://github.com/user-attachments/assets/ded74273-a96c-4039-b5e8-8d8dfa96ab2f" />
+)
+
+### 💡 Strategic UX Solutions
+* **Tabbed Menu Architecture:** Designed a dynamic 5-tab system (BBQ, Mexican, Italian) eliminating page reloads and endless scrolling.
+* **Sales-First Funnel:** Restructured layout hierarchy to prioritize social proof, food pillars, and direct event inquiry forms.
+* **Accessible UI System:** High-contrast CTA hierarchy using brand-red accents optimized for mobile touch targets.
+
+> **🚀 Live Preview & Developer Handoff:** Independently deployed an interactive prototype on **Vercel** to deliver a live client preview, then collaborated side-by-side with the developer using FigJam logic flows and wireframe specs to implement the final production build on the host server.
+
+### 🛠️ Tools & Deliverables
+`Figma` `Figma Make` `FigJam` `Vercel (Staging)` `User Flows` `Low-Fi Wireframes` `Responsive UI`
+
+---
+## 📋 Featured Case Study 02: Travel Booking Usability Redesign
 **The Challenge:** Users reported high friction and "spatial confusion" during the hotel selection process, leading to abandoned bookings.
 **The Goal:** Streamline the multi-step booking flow and integrate interactive map data to improve user decision-making.
 
@@ -23,7 +52,7 @@
 * **Iterative Prototyping:** Translated low-fidelity sketches into high-fidelity wireframes, testing multiple layout configurations to find the optimal balance between property details and interactive map placement.
 ---
 
-## 📋 Case Study 02: Vita Terra: Engineering Trust through Radical Transparency & Design 
+## 📋 Featured Case Study 03: Vita Terra: Engineering Trust through Radical Transparency & Design 
 **Team Collaboration:** 4 Multi-disciplinary Teams | **My Role:** UX/UI Design & Quality Assurance (QA) 
 
 ### **The Strategic Challenge**
